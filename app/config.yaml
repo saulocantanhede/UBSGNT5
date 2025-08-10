@@ -5,7 +5,6 @@ dataDisplay:
   - none
   - unknown
   - null
-  - NA
   sectionSep1: '@'
   textFormat: text-orig-full
 interfaceDefaults:
