@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @convertedToTextFabricBy=Saulo de Oliveira Cantanhêde
-@converterVersion=0.0.4 (September 15, 2025)
+@converterVersion=0.0.4 (September 22, 2025)
 @dataSource=UBSGNT5
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
@@ -16,7 +16,7 @@
 @version=0.0.4
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-16T03:40:13Z
+@dateWritten=2025-09-22T16:59:08Z
 
 1
 1
