@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @convertedToTextFabricBy=Saulo de Oliveira Cantanhêde
-@converterVersion=0.0.5 (September 24, 2025)
+@converterVersion=0.0.5 (October 14, 2025)
 @dataSource=UBSGNT5
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
@@ -14,7 +14,7 @@
 @valueType=str
 @version=0.0.5
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-25T01:49:00Z
+@dateWritten=2025-10-14T19:39:58Z
 
 270710	conj
 prep

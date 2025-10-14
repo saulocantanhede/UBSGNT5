@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-09-22T16:59:15Z
+@dateWritten=2025-10-14T18:45:24Z
 @description=English translation of the word surface text
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-25T01:49:01Z
+@dateWritten=2025-10-14T19:39:59Z
 
 a record
 of [the] genealogy

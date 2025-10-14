@@ -1,9 +1,22 @@
 @node
+@author=Evangelists and apostles
+@convertedToTextFabricBy=Saulo de Oliveira Cantanhêde
+@converterVersion=0.0.4 (October 14, 2025)
+@dataSource=UBSGNT5
+@dataSourceFormat=Emdros database
+@dataSourceVersion=5
+@datasetName=United Bible Societies Greek New Testament
 @dateWritten=2025-08-21T13:07:28Z
+@description=surface text with Unicode presentation
+@encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
+@institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
+@licence=Creative Commons Attribution-NonCommercial 4.0 International License
+@licenceUrl=http://creativecommons.org/licenses/by-nc/4.0/
 @valueType=str
+@version=0.0.4
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-22T16:59:15Z
+@dateWritten=2025-10-14T18:45:24Z
 
 Βίβλος
 γενέσεως

@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-09-22T16:59:10Z
+@dateWritten=2025-10-14T18:45:18Z
 @description=lexical lemma according to the Bible Dictionary of Ancient Greek (BDAG)
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-25T01:48:56Z
+@dateWritten=2025-10-14T19:39:54Z
 
 βίβλος
 γένεσις

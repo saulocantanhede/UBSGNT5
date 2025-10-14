@@ -22,5 +22,5 @@ provenanceSpec:
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay:
   word:
-    featuresBare: surface
+    featuresBare: text
 writing: grc

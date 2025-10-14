@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-09-22T16:59:07Z
+@dateWritten=2025-10-14T18:45:15Z
 @description=book name (abbreviated) from Emdros dataset
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-09-25T01:48:53Z
+@dateWritten=2025-10-14T19:39:52Z
 
 MAT
 MAT
