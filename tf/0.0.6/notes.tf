@@ -14,7 +14,7 @@
 @valueType=str
 @version=0.0.6
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-14T19:44:45Z
+@dateWritten=2025-10-15T03:42:38Z
 
 259	Direction (at own phrase level). All the generations from the previous clause is assumed in this and the next clause.
 269	Direction (at own phrase level)

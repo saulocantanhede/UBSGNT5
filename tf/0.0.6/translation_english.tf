@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-14T19:44:48Z
+@dateWritten=2025-10-15T03:42:41Z
 
 a record
 of [the] genealogy

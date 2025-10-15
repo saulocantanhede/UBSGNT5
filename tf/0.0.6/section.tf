@@ -3,7 +3,7 @@
 @valueType=str
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-14T19:44:47Z
+@dateWritten=2025-10-15T03:42:40Z
 
 422611	GNSBUK001639{IMG:Three_Patriarchs_in_Paradise;tb042403039;HK00153;jc1229149058;tb112004093-2;mat07384;HK00224;adr1305165446}
 GNSBUK001640{IMG:tb031115118;tb112004059w;Kneeling angel}
