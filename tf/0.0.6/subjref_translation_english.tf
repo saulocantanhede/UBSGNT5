@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-10-14T19:39:58Z
+@dateWritten=2025-10-17T18:40:46Z
 @description=English translation of subject referent
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-15T03:42:40Z
+@dateWritten=2025-10-17T18:44:15Z
 
 245	Jesus
 295	mother

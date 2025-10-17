@@ -1,12 +1,12 @@
 @node
 @author=Evangelists and apostles
 @convertedToTextFabricBy=Saulo de Oliveira Cantanhêde
-@converterVersion=0.0.5 (October 14, 2025)
+@converterVersion=0.0.5 (October 17, 2025)
 @dataSource=UBSGNT5
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-10-14T19:40:00Z
+@dateWritten=2025-10-17T18:40:47Z
 @description=types of pronouns
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.5
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-15T03:42:41Z
+@dateWritten=2025-10-17T18:44:16Z
 
 26	prs
 168	prs

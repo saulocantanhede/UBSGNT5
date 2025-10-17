@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-10-14T19:39:57Z
+@dateWritten=2025-10-17T18:40:44Z
 @description=number of referent
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.4
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-15T03:42:39Z
+@dateWritten=2025-10-17T18:44:14Z
 
 26	40001002014
 168	40001011005

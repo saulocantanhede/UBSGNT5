@@ -6,7 +6,7 @@
 @dataSourceFormat=Emdros database
 @dataSourceVersion=5
 @datasetName=United Bible Societies Greek New Testament
-@dateWritten=2025-10-14T19:40:00Z
+@dateWritten=2025-10-17T18:40:47Z
 @description=verbal voice
 @encodedBy=Ulik Sandborg-Petersen, Saulo de Oliveira Cantanhêde, and Oliver Glanz
 @institute=CBLC (Center of Biblical Languages and Computing) at Andrews University
@@ -16,7 +16,7 @@
 @version=0.0.3
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-10-15T03:42:42Z
+@dateWritten=2025-10-17T18:44:16Z
 
 10	active
 15	active
