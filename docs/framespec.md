@@ -1,4 +1,4 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.7)
+Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
 # Feature: framespec
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -38,4 +38,4 @@ A0:42020034005|25
 Total frequency of feature: 25376. Note: table truncated.
   
 
-Created on Oct. 17, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

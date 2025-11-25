@@ -1,10 +1,10 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.7)
+Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
 # Feature: subjrefspec
 Data type|Feature type|Available for nodes
 ---|---|---
 [`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`functionalword`](featuresbynodetype.md#functionalword)  [`word`](featuresbynodetype.md#word) 
 ## Description
-number of subject referent
+id word of textual subject a word is referring to
 ## Feature Values
 ### Frequency for nodetype [functionalword](featuresbynodetype.md#functionalword)
 Value|Occurences
@@ -38,4 +38,4 @@ Value|Occurences
 Total frequency of feature: 16455. Note: table truncated.
   
 
-Created on Oct. 17, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

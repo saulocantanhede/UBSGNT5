@@ -1,4 +1,4 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.7)
+Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
 # Feature: tense
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -30,4 +30,4 @@ pluperfect|86
 Total frequency of feature: 28367.
   
 
-Created on Oct. 17, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

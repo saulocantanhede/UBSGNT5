@@ -1,45 +1,30 @@
 <a name="start"></a>
-<div class="hidden-content">
- Features | <a href="../about.md#start">About</a>
-</div>
 
 # UBSGNT5 - Features
 
-In Text-Fabric, a 'feature' refers to attributes associated with a certain nodes type (like words, word groups, or sentences). The feature value provide additional information specific to the attribute of that node.
+In Text-Fabric, a *feature* refers to attributes associated with a certain nodes type (like words). The feature value provide additional information specific to the attribute of that node.
 
 [All features listed by feature name](featuresbyname.md#start).
 
 The full featureset of this Text-Fabric dataset can also be viewed by different grouping methods:
 * [Grouped by feature type](featuresbytype.md#start)
-     * [`Node`](featuresbytype.md#node-features): the fundamental units or entities in the data model.
-     * [`Edge`](featuresbytype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
-     * [`Config`](featuresbytype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
-* [Grouped by feature group](featuresbygroup.md#start): -- work on these ones
-     * [`Warp`](featuresbygroup.md#warp-features): features pertaining to the arrangement and organization of the Text-Fabric dataset.
-     * [`Sectional`](featuresbygroup.md#sectional-features): features related to structural divisions within the text.
-     * [`Orthograpic`](featuresbygroup.md#orthograpic-features): features related to the visual representation of the text.
-     * [`Lexical`](featuresbygroup.md#lexical-features): features related to individual words and their lexical properties.
-     * [`Textcritical`](featuresbygroup.md#textcritical-features): features related to textual critical issues.
-     * [`Morphological`](featuresbygroup.md#morphological-features): features related to the morphological form of words.
-     * [`Syntactic`](featuresbygroup.md#syntactic-features): features related to the syntactical arrangement of words and phrases.
-     * [`Semantic`](featuresbygroup.md#semantic-features): features related to semantic meaning and roles of words and phrases.
-     * [`Relational`](featuresbygroup.md#relational-features): features describing relationships or connections between nodes.
+     * [`Node`](featuresbytype.md#node): the fundamental units or entities in the data model.
+     * [`Edge`](featuresbytype.md#edge): relationships or links, establishing connections between nodes in the data model.
 * [Grouped by node type](featuresbynodetype.md#start):
-     * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
-     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual word group node is accompanied by a shadow node of one of the following types: 
-         * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
-         * [`phrase`](featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
-         * [`clause`](featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
-         * [`group`](featuresbynodetype.md#group-nodes): Nodes pertaining to a group unit.
-     * [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
-     * [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
-     * [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
-     * [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
+     * [`book`](featuresbynodetype.md#book): the highest-level division within the text, corresponding to a bible book.
+     * [`chapter`](featuresbynodetype.md#chapter): divisions within the text that group related content together, specificaly the biblical chapter.
+     * [`section`](featuresbynodetype.md#section): divisions within the text that group related the same content together.
+     * [`parsedtext`](featuresbynodetype.md#parsedtext): divisions within the text that group parsed text.
+     * [`sentence`](featuresbynodetype.md#sentence): represents individual sentences in the text.
+     * [`tree`](featuresbynodetype.md#tree): divisions within the text that group tree of data.
+     * [`verse`](featuresbynodetype.md#verse): pertains to divisions within a larger textual unit, specificaly the biblical verse.
+     * [`clause`](featuresbynodetype.md#clause): nodes pertaining to a clause unit.
+     * [`phrase`](featuresbynodetype.md#phrase): nodes pertaining to a phrase unit.
+     * [`subphrase`](featuresbynodetype.md#subphrase): nodes pertaining to a subphrase unit.
+     * [`functionalword`](featuresbynodetype.md#functionalword): represents syntatical functional words in the text.
+     * [`word`](featuresbynodetype.md#word): represents individual words in the text.
 * [Grouped by datatype](featuresbydatatype.md#start):
-     * [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
-     * [`integer`](featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
-     * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
-
-
+     * [`integer`](featuresbydatatype.md#integer): Datatype of feature is integer.
+     * [`string`](featuresbydatatype.md#string): Datatype of feature is string.
 
 This repository uses the nomenclature used in the Nestle 1904 GNT dataset. More information can be checked [here](https://centerblc.github.io/N1904/).
