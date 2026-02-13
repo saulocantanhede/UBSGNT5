@@ -14,7 +14,7 @@ provenanceSpec:
   corpus: 'UBS GNT5 (converted from Emdros)'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.0.1
+  version: 0.0.8
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
