@@ -14,14 +14,12 @@ The full featureset of this Text-Fabric dataset can also be viewed by different 
      * [`book`](featuresbynodetype.md#book): the highest-level division within the text, corresponding to a bible book.
      * [`chapter`](featuresbynodetype.md#chapter): divisions within the text that group related content together, specificaly the biblical chapter.
      * [`section`](featuresbynodetype.md#section): divisions within the text that group related the same content together.
-     * [`parsedtext`](featuresbynodetype.md#parsedtext): divisions within the text that group parsed text.
-     * [`sentence`](featuresbynodetype.md#sentence): represents individual sentences in the text.
-     * [`tree`](featuresbynodetype.md#tree): divisions within the text that group tree of data.
      * [`verse`](featuresbynodetype.md#verse): pertains to divisions within a larger textual unit, specificaly the biblical verse.
+     * [`sentence`](featuresbynodetype.md#sentence): represents individual sentences in the text.
      * [`clause`](featuresbynodetype.md#clause): nodes pertaining to a clause unit.
+     * [`group`](featuresbynodetype.md#group): nodes pertaining to a group unit.
      * [`phrase`](featuresbynodetype.md#phrase): nodes pertaining to a phrase unit.
      * [`subphrase`](featuresbynodetype.md#subphrase): nodes pertaining to a subphrase unit.
-     * [`functionalword`](featuresbynodetype.md#functionalword): represents syntatical functional words in the text.
      * [`word`](featuresbynodetype.md#word): represents individual words in the text.
 * [Grouped by datatype](featuresbydatatype.md#start):
      * [`integer`](featuresbydatatype.md#integer): Datatype of feature is integer.
