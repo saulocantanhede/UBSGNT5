@@ -1,41 +1,26 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
+Doc4TF pages for UBSGNT5 (converted from Emdros) (version 0.0.12)
 # Feature: text
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`functionalword`](featuresbynodetype.md#functionalword)  [`word`](featuresbynodetype.md#word) 
+[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`word`](featuresbynodetype.md#word) 
 ## Description
 word text
 ## Feature Values
-### Frequency for nodetype [functionalword](featuresbynodetype.md#functionalword)
+### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-καὶ|8581
-ὁ|2808
-ἐν|2688
+καὶ|8595
+ὁ|2814
+ἐν|2697
 δὲ|2623
-τοῦ|2505
-εἰς|1755
+τοῦ|2508
+εἰς|1757
 τὸ|1667
-τὸν|1563
+τὸν|1564
 τὴν|1518
-αὐτοῦ|1423
+αὐτοῦ|1425
 
-Total frequency of feature: 137868. Note: table truncated.
- ### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-καὶ|8581
-ὁ|2808
-ἐν|2688
-δὲ|2623
-τοῦ|2505
-εἰς|1755
-τὸ|1667
-τὸν|1563
-τὴν|1518
-αὐτοῦ|1423
-
-Total frequency of feature: 137868. Note: table truncated.
+Total frequency of feature: 138013. Note: table truncated.
   
 
-Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Oct. 01, 2026 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

@@ -1,27 +1,12 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
+Doc4TF pages for UBSGNT5 (converted from Emdros) (version 0.0.12)
 # Feature: strong
 Data type|Feature type|Available for nodes
 ---|---|---
-[`Integer`](featuresbydatatype.md#integer)|[`Node`](featuresbytype.md#node)| [`functionalword`](featuresbynodetype.md#functionalword)  [`word`](featuresbynodetype.md#word) 
+[`Integer`](featuresbydatatype.md#integer)|[`Node`](featuresbytype.md#node)| [`word`](featuresbynodetype.md#word) 
 ## Description
 Strong number
 ## Feature Values
-### Frequency for nodetype [functionalword](featuresbynodetype.md#functionalword)
-Value|Occurences
----|---
-3588|19860
-2532|9019
-846|5597
-1161|2791
-1722|2752
-1519|1767
-3756|1624
-3739|1407
-3004|1336
-2316|1317
-
-Total frequency of feature: 138013. Note: table truncated.
- ### Frequency for nodetype [word](featuresbynodetype.md#word)
+### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 3588|19860
@@ -38,4 +23,4 @@ Value|Occurences
 Total frequency of feature: 138013. Note: table truncated.
   
 
-Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Oct. 01, 2026 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

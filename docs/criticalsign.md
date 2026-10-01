@@ -1,23 +1,19 @@
-Doc4TF pages for UBS GNT5 (converted from Emdros) (version 0.0.8)
+Doc4TF pages for UBSGNT5 (converted from Emdros) (version 0.0.12)
 # Feature: criticalsign
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`functionalword`](featuresbynodetype.md#functionalword)  [`word`](featuresbynodetype.md#word) 
+[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`word`](featuresbynodetype.md#word) 
 ## Description
 critical signs
 ## Feature Values
-### Frequency for nodetype [functionalword](featuresbynodetype.md#functionalword)
+### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-[]|431
+[]|434
+[|75
+]|67
 
-Total frequency of feature: 431.
- ### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-[]|431
-
-Total frequency of feature: 431.
+Total frequency of feature: 576.
   
 
-Created on Nov. 24, 2025 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Oct. 01, 2026 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
