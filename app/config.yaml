@@ -14,7 +14,7 @@ provenanceSpec:
   corpus: 'UBSGNT5 (converted from Emdros)'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.0.12
+  version: 0.0.13
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
